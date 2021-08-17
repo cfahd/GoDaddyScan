@@ -1,0 +1,1 @@
+{"available":true,"currency":"USD","definitive":false,"domain":"cfahd.com","period":1,"price":11990000}
